@@ -1,4 +1,4 @@
-# *Ja i Moje Zwłoki*
+# *Ja i moje Zwłoki*
 
 ## Overview
 
