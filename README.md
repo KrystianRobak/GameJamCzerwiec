@@ -4,7 +4,7 @@
 
 This project was created as part of a game jam. It’s a first-person puzzle adventure focusing on dimension-switching mechanics and environmental storytelling.
 
-![obraz](https://github.com/user-attachments/assets/f8e51d0e-0cd7-4483-a578-835581c24e09)
+![obraz](https://github.com/user-attachments/assets/b8f80e11-9dc8-43dd-877c-2ab82fc52261)
 
 ## Gameplay
 
